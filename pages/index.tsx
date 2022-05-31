@@ -32,11 +32,7 @@ export default function Home({
             Twitter
           </a>
           ,{" "}
-          <a
-            href="https://github.com/nnhungjs"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="https://github.com/nnhjs" target="_blank" rel="noreferrer">
             Github
           </a>
         </p>
